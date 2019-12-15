@@ -1,0 +1,28 @@
+{
+  "name": "@f2e-npm/backend",
+  "version": "1.0.3",
+  "description": "backend npm demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "backend-npm": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinking80s/dengpeng-backend.git"
+  },
+  "keywords": [
+    "f2e-npm",
+    "dengpeng-backend"
+  ],
+  "private": false,
+  "author": "thinking80s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thinking80s/dengpeng-backend/issues"
+  },
+  "homepage": "https://github.com/Thinking80s/dengpeng-backend#readme"
+}
