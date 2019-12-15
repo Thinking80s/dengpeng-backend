@@ -1,6 +1,6 @@
 {
   "name": "@f2e-npm/backend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "backend npm demo",
   "main": "index.js",
   "scripts": {

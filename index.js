@@ -1,5 +1,5 @@
 /**
- * [exports description]
+ * [exports print]
  * @type {Object}
  */
 module.exports = {
